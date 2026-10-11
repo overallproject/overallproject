@@ -1,7 +1,7 @@
+```html
 <div align="center">
 
-  <!-- Add the Overall logo at assets/overall-logo.png -->
-  <img src="Banner.png" alt="Overall logo" width="180" />
+  <img src="Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%" />
 
   # Overall
 
@@ -12,6 +12,7 @@
 </div>
 
 ---
+```
 
 ## About Overall
 
