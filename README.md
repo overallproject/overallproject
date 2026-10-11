@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Add the Overall logo at assets/overall-logo.png -->
-  <img src="assets/overall-logo.png" alt="Overall logo" width="180" />
+  <img src="overall.png" alt="Overall logo" width="180" />
 
   # Overall
 
@@ -65,16 +65,9 @@ All resources listed below are freely available in the [Arsenal de la Comunidad 
 
 Learn, exchange ideas, and collaborate with the Overall community.
 
-**[Join the Overall Discord community](DISCORD_INVITE_LINK)**
+**[Join the Overall Discord community](https://discord.gg/UtBmgBjb4)**
 
 <!-- Replace DISCORD_INVITE_LINK with the community's invite URL. -->
-
-## Projects
-
-Explore our repositories for research, tools, experiments, and educational resources.
-
-- **[Project name](REPOSITORY_LINK)** — Short project description.
-- **[Project name](REPOSITORY_LINK)** — Short project description.
 
 ## Responsible Research
 
