@@ -1,7 +1,8 @@
-```html
 <p align="center">
-  <img src="Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%">
+  <img src="https://raw.githubusercontent.com/overallproject/overallproject/main/Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%" />
 </p>
+
+---
 
 # Overall
 
@@ -10,7 +11,6 @@
 *Understand. Research. Build.*
 
 ---
-```
 
 ## About Overall
 
