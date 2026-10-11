@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Add the Overall logo at assets/overall-logo.png -->
-  <img src="overall.png" alt="Overall logo" width="180" />
+  <img src="Banner.png" alt="Overall logo" width="180" />
 
   # Overall
 
