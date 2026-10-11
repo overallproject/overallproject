@@ -1,15 +1,13 @@
-```html
+```markdown
 <div align="center">
-
-  <img src="Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%" />
-
-  # Overall
-
-  **Independent Cybersecurity Research & Development**
-
-  *Understand. Research. Build.*
-
+  <img src="./Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%" />
 </div>
+
+# Overall
+
+**Independent Cybersecurity Research & Development**
+
+*Understand. Research. Build.*
 
 ---
 ```
