@@ -1,7 +1,7 @@
-```markdown
-<div align="center">
-  <img src="./Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%" />
-</div>
+```html
+<p align="center">
+  <img src="Banner.png" alt="Overall — Independent Cybersecurity Initiative" width="100%">
+</p>
 
 # Overall
 
